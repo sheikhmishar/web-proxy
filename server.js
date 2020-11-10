@@ -1,3 +1,9 @@
+/*!
+ * web-proxy
+ * Copyright(c) 2020 sheikhmishar
+ * GPLv3 Licensed
+ */
+ 
 const express = require('express')
 const debug = require('debug')
 const chalk = require('chalk')
